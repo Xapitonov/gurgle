@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="appName">Гурчание</string>
+  <string name="help">Справка</string>
+  <string name="refresh">Обновить</string>
+  <string name="share">Поделиться</string>
+  <string name="image">Изображение</string>
+  <string name="options">Варианты</string>
+  <string name="confetti">Конфетти</string>
+  <string name="fanfare">Звук триумфа</string>
+  <string name="word">Слово по умолчанию</string>
+  <string name="dict">Словарь</string>
+  <string name="aard2">Aard2</string>
+  <string name="quickdic">Quickdic</string>
+  <string name="wikt">Викисловарь</string>
+  <string name="code">Код</string>
+  <string name="text">Текст</string>
+  <string name="qrCode">QR-код</string>
+  <string name="getCode">Получить код</string>
+  <string name="enterCode">Введите код</string>
+  <string name="about">О приложении</string>
+
+  <string name="language">Язык</string>
+  <string name="afrikaans">Африканский</string>
+  <string name="english">Английский</string>
+  <string name="italian">Итальянский</string>
+  <string name="spanish">Испанский</string>
+  <string name="catalan">Каталонский</string>
+  <string name="french">Французский</string>
+  <string name="portuguese">Португальский</string>
+  <string name="german">Немецкий</string>
+  <string name="dutch">Нидерландский</string>
+  <string name="hungarian">Венгерский</string>
+
+  <string name="theme">Тема</string>
+  <string name="dark">Тёмный</string>
+  <string name="blue">Синий</string>
+  <string name="cyan">Циановый</string>
+  <string name="orange">Оранжевый</string>
+  <string name="purple">Фиолетовый</string>
+  <string name="black">Чёрный</string>
+  <string name="light">Светлый</string>
+  <string name="red">Красный</string>
+
+  <string name="highlight">Цвета выделения</string>
+  <string name="reset">Сбросить</string>
+  <string name="selectHighlight">
+    Выбрать цвета выделения
+  </string>
+
+  <string name="press">Нажмите ввод</string>
+  <string name="finish">Сначала завершите слово</string>
+  <!--<string name="guess">Guess the word first</string>-->
+  <string name="notListed">Нет в списке слов</string>
+	<string name="solved">Решено, нажмите обновить</string>
+	<string name="newCode">Новый набор кода</string>
+	<string name="notRecognised">Код не распознан</string>
+
+	<string name="congratulations">
+  Поздравляем! Вы угадали %s правильно
+	</string>
+
+	<string name="version" formatted="false"><a
+href="https://github.com/billthefarmer/gurgle/releases/latest">%s</a>\n\nСборка
+%s\n\nВладелец \u00A9 2022 <a
+href="https://github.com/billthefarmer">Билл Фарме</a>\n\nСловари от <a
+href="https://github.com/lexica">Lexica</a>\nТемы от <a
+href="https://github.com/PoorLazyCoder">PoorLazyCoder</a>\nФранцузский
+язык и загрузчик словаря от <a
+href="https://github.com/tatref">tatref</a> и <a
+href="http://www.lexique.org">Lexique</a>\nКонфетти от <a
+href="https://github.com/DanielMartinus/Konfetti">Konfetti</a>\n\nЛицензия <a
+href="https://www.gnu.org/licenses/gpl.txt">GNU GPLv3</a>
+	</string>
+
+</resources>
